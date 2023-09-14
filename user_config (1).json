@@ -1,0 +1,41 @@
+{
+  "AccountIndex" : 27315953,
+  "AccountIdHash" : "0e9874e7944041d71c1d3bd38633c502285d602b5491117c989b27f9cff9676d",
+  "TotalEquity" : 41206948821281837,
+  "TotalDebt" : 0,
+  "Assets" : [ {
+    "Index" : 2,
+    "Equity" : 690,
+    "Debt" : 0
+  }, {
+    "Index" : 3,
+    "Equity" : 22385837,
+    "Debt" : 0
+  }, {
+    "Index" : 95,
+    "Equity" : 10,
+    "Debt" : 0
+  }, {
+    "Index" : 108,
+    "Equity" : 4242292,
+    "Debt" : 0
+  }, {
+    "Index" : 138,
+    "Equity" : 3821,
+    "Debt" : 0
+  }, {
+    "Index" : 184,
+    "Equity" : 8606,
+    "Debt" : 0
+  }, {
+    "Index" : 205,
+    "Equity" : 25096732,
+    "Debt" : 0
+  }, {
+    "Index" : 301,
+    "Equity" : 4226195225,
+    "Debt" : 0
+  } ],
+  "Root" : "1241c5b5d92882a63a15acfaeb5224f0173161828ceb80d360880b496abe1bdf",
+  "Proof" : [ "J2B7bmg7Yhvq7wDLZBiLZCiTNT3p2KYKrLskY7+z0Us=", "JHNp8aU1lVp15fRmJky4ZCOAsEiqNkWxPvmc9Dk7Gm4=", "KgooiZ1gUw55HuYuOC1Nr+n8R+q0WzCk/B6qVtGfLuY=", "AXVmjo0MBe3uYz7J2PLJ2qizhnwwSAkbuDRLus7L/Uk=", "BIjZWyfFYpp4rhvOkh1jDzDVX0OrLkPffXy3sJ7YQz0=", "HE4E860+VLohZLb0srYnvP74G1c2V0HVISBb2BXZTdg=", "F0nvF9ofG3vlcuzOmuh5B3SaoQLD9CXzyjs2wk7EJCk=", "JQM5rSEI/qzW7gbv3+DqBp2X4LOQkDxVIN2Gye8qzgE=", "Cmro1vcuczFxFYh+299Wgfgjeb4iho++cE4HZqCas7s=", "C4ueAOsW7XhbZuLLOBNWbE+aI6RRxqaAZI1CLWPBa8Y=", "L+hwbZ2sF8tP8+hJYJG6WKxOLjLGXHUq9y4+VPEPMhM=", "DaYafjZvd6RTQ7itX9GvdJTdfG5R+3qO7UaJPTb+dnA=", "GI6FNFu4WMT4XrF27wiCyt1cP+/0qsMdNSi3fgKOp6Q=", "K8GXlISrg/zIExqL4mvleZnqmXet4mv0h3Z7xgPiX74=", "EPrS83wunwfoyDWr1MiwiS1G3btIzDLR5GkcMUMANMs=", "KRphzCttTb4ap8ZGqIfRC23oCsuKEETR3kGQfZSJ7CA=", "Afm98Gt+bkMp2R3BQD2YKP+0+oKC1VOfR1GuM4XLohg=", "IK52MHEvxjAxbbG8p8Xv1wbI8wupfl8KbAEYPANKMeE=", "HjR/y6CaeKgq88IM4w6afTiEV3CrXQoRwbPW38ae7js=", "LfaEuzFpDbgNcV1IyCfP+IdD+ITZ5zzUv1XDBDfnIF4=", "D88tXyL7lISPZVhChJRW/obfoH/saHQjc4/dYXWpQME=", "KY706J+iyRiYeKxRsQWNE9oNgDC3eUNOV9txMxJF7MQ=", "AGjpOqqXyfZMx2Ibap4KhPhoXAnVg9QHpjdMuFnc8j8=", "CZxhYLdgSFKWfd7QpiMLEJckOrtGkuxA4LAvpoNqy1s=", "GnosM6tTeU+bEMi4IEjygSnu7Y+lNwOctB5JZCAH4b0=", "Ih3nTa6XFm9hKJZUI+u6EqntbUNhqRMiSZV/e0VFQio=", "EUZQwQDUH48osqrtgcPuAQsQvdVKTC+hYmKvIhzImZQ=", "HKC2vx3pnDTdfyrzYjCbJMcxojJfvuyzj2/rMMiMplQ=" ]
+}
